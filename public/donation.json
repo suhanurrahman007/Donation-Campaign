@@ -1,0 +1,157 @@
+[{
+        "id": 1,
+        "title": "Save the Rainforest",
+        "image": "https://i.ibb.co/hdKwBNX/1300x820-1673973607.webp",
+        "categories": "Nature",
+        "price": 25.00,
+        "description": "Join our campaign to protect and rejuvenate rainforests, which are home to countless species and play a pivotal role in regulating global climate.",
+        "color": {
+            "colorOne": "#79C23F26",
+            "colorTwo": "#d4ecc1",
+            "colorThree": "#79C23F"
+        }
+    },
+    {
+        "id": 2,
+        "title": "Help Orphaned Children",
+        "image": "https://i.ibb.co/5s3xsj9/Children-smiling.webp",
+        "categories": "Health",
+        "price": 30.00,
+        "description": "Support our initiative to bring smiles and happiness to the lives of orphaned children. Every child deserves love and care.",
+        "color": {
+            "colorOne": "#0052FF26",
+            "colorTwo": "#aec8ff",
+            "colorThree": "#0052FF"
+        }
+    },
+    {
+        "id": 3,
+        "title": "Protect Endangered Species",
+        "image": "https://i.ibb.co/pbxsQTJ/World-Wildlife-Day-width-800.jpg",
+        "categories": "Nature",
+        "price": 20.00,
+        "description": "Every species plays a crucial role in our ecosystem. Help us protect the endangered ones before they are lost forever.",
+        "color": {
+            "colorOne": "#79C23F26",
+            "colorTwo": "#d4ecc1",
+            "colorThree": "#79C23F"
+        }
+    },
+    {
+        "id": 4,
+        "title": "Provide Clean Water",
+        "image": "https://i.ibb.co/xqSKLb8/download.jpg",
+        "categories": "Health",
+        "price": 15.00,
+        "description": "Water is life. Help us provide clean and safe drinking water to communities lacking this basic necessit.",
+        "color": {
+            "colorOne": "#0052FF26",
+            "colorTwo": "#aec8ff",
+            "colorThree": "#0052FF"
+        }
+    },
+    {
+        "id": 5,
+        "title": "Support Medical Research",
+        "image": "https://i.ibb.co/mS8shvH/Alcura-healthcare-professionals-clinical-trial-support-solutions-VE1981dw.jpg",
+        "categories": "Health",
+        "price": 50.00,
+        "description": "Progress in medical research can lead to breakthroughs in treatments. Contribute to a healthier future for all.",
+        "color": {
+            "colorOne": "#0052FF26",
+            "colorTwo": "#aec8ff",
+            "colorThree": "#0052FF"
+        }
+    },
+    {
+        "id": 6,
+        "title": "Educate the Underprivileged",
+        "image": "https://i.ibb.co/FW4NrNy/f0ea45d961454290445a616e4bf71554.jpg",
+        "categories": "Education",
+        "price": 40.00,
+        "description": "Education can transform lives. Support us in bringing quality education to those who need it most.",
+        "color": {
+            "colorOne": "#FF444A26",
+            "colorTwo": "#ffc3c5",
+            "colorThree": "#FF444A"
+        }
+    },
+    {
+        "id": 7,
+        "title": "Natural Habitat Restoration",
+        "image": "https://i.ibb.co/PzPCLXQ/download-1.jpg",
+        "categories": "Nature",
+        "price": 35.00,
+        "description": "Every year, thousands of acres of natural habitats are lost to urbanization and pollution. Our initiative focuses on rejuvenating these lands, reintroducing native flora and fauna, and ensuring that these habitats remain protected zones, free from human interference.",
+        "color": {
+            "colorOne": "#79C23F26",
+            "colorTwo": "#d4ecc1",
+            "colorThree": "#79C23F"
+        }
+    },
+    {
+        "id": 8,
+        "title": "School Supplies for Kids",
+        "image": "https://i.ibb.co/cXWNbpF/school-supplies-back-to-school-2x1-fullres-2.webp",
+        "categories": "Education",
+        "price": 10.00,
+        "description": "Equipping a child with the right tools can pave the way for academic excellence. This initiative works closely with underserved communities, ensuring that every child, irrespective of their economic background, has access to the necessary school supplies.",
+        "color": {
+            "colorOne": "#FF444A26",
+            "colorTwo": "#ffc3c5",
+            "colorThree": "#FF444A"
+        }
+    },
+    {
+        "id": 9,
+        "title": "Clean Air Campaign",
+        "image": "https://i.ibb.co/6P8Rp8Y/Acton-Central-anti-idling-June-lr.jpg",
+        "categories": "Nature",
+        "price": 45.00,
+        "description": "The quality of air we breathe directly impacts our health and well-being. Through this campaign, we advocate for stricter pollution control measures, raise awareness about the detrimental health effects of polluted air, and champion the use of renewable energy sources.",
+        "color": {
+            "colorOne": "#79C23F26",
+            "colorTwo": "#d4ecc1",
+            "colorThree": "#79C23F"
+        }
+    },
+    {
+        "id": 10,
+        "title": "Healthcare for the Homeless",
+        "image": "https://i.ibb.co/vQtDRfx/doctors-in-homeless-shelter-with-homeless-patients.webp",
+        "categories": "Health",
+        "price": 60.00,
+        "description": "Every life is valuable. Our initiative aims to bring medical attention to the most vulnerable – the homeless. By setting up mobile clinics and partnering with shelters, we ensure that the homeless receive medical check-ups, medicines, and necessary treatments.",
+        "color": {
+            "colorOne": "#0052FF26",
+            "colorTwo": "#aec8ff",
+            "colorThree": "#0052FF"
+        }
+    },
+    {
+        "id": 11,
+        "title": "Digital Literacy Programs",
+        "image": "https://i.ibb.co/s3650g3/MVB-blog5-hero.jpg",
+        "categories": "Education",
+        "price": 28.00,
+        "description": "As the world rapidly digitizes, being tech-savvy is no longer a luxury but a necessity. Our program focuses on bridging the digital divide by offering comprehensive training modules on essential digital skills, ensuring everyone can navigate the digital world with ease.",
+        "color": {
+            "colorOne": "#FF444A26",
+            "colorTwo": "#ffc3c5",
+            "colorThree": "#FF444A"
+        }
+    },
+    {
+        "id": 12,
+        "title": "Natural Conservation Workshop",
+        "image": "https://i.ibb.co/fvPRhPH/volunteers-planting-1024x576.jpg",
+        "categories": "Nature",
+        "price": 55.00,
+        "description": "Our workshops serve as a platform for individuals to understand the importance of nature conservation. Through hands-on experiences, expert talks, and field visits, participants are educated about sustainable practices and conservation techniques, empowering them to be ambassadors for nature in their communities.",
+        "color": {
+            "colorOne": "#79C23F26",
+            "colorTwo": "#d4ecc1",
+            "colorThree": "#79C23F"
+        }
+    }
+]

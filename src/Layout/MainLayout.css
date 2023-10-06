@@ -1,0 +1,21 @@
+.coverPhoto {
+    position: relative;
+    /* Your other styles for the element, like padding, width, etc. */
+}
+
+.coverPhoto::before {
+    content: "";
+    background-image: url('/cover.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 100%;
+    opacity: 0.1;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    position: absolute;
+    z-index: -1;
+}
